@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>label/close.png</file>
+        <file>label/continue.png</file>
+        <file>label/ele.png</file>
+        <file>label/elevator.ico</file>
+        <file>label/end.png</file>
+        <file>label/halfopen.png</file>
+        <file>label/open.png</file>
+        <file>label/pause.png</file>
+    </qresource>
+</RCC>
